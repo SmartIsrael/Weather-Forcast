@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #ff9800, #ff5722);
+    color: white;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .input-section {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #cities {
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  
+  .weather-section {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .weather-details {
+    /* Style weather details here */
+  }
+  
+  h1, h2 {
+    margin: 0;
+  }
+  
+  label {
+    font-size: 18px;
+    margin-right: 10px;
+  }
